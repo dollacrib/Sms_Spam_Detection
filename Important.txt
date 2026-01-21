@@ -1,0 +1,26 @@
+This project have a little flaw where you cannot directly execute it just by taping on the spam_qul.py.
+It can be executed smoothly by firstly copying this command  cd /d "C:\Users\shukl\Downloads\MyProject" 
+and then this command python spam_gui.py
+
+this app will run smoothly.
+
+
+Some example for to test on it-:
+Congratulations! You've been selected to win a FREE iPhone 15. Click here to claim: bit.ly/win-now
+URGENT: Your account will be suspended. Verify now: secure-login.net
+You have 1 new voice message. Call 09061234 now to listen. Charges apply.
+Earn $5000/week from home! No experience needed. Text YES to 56677
+Dear customer, you won ₹1,00,000 in lucky draw. Call 9876543210 to claim prize money.
+Your parcel is waiting at the post office. Pay ₹199 delivery fee here: fakeupslink.com
+Hot singles in your area want to meet you tonight! Reply YES
+
+
+another one -:
+
+Hey, are we still meeting at 6 pm for the project discussion?
+Mom: Don’t forget to bring milk on your way home.
+Professor: Assignment submission deadline extended to Sunday midnight.
+Reminder: Doctor appointment tomorrow at 11:30 AM
+Bro, match starts at 8. Coming to my place? I’ll order pizza
+Thanks for the notes! Really helped for tomorrow’s test
+Happy Birthday Shukla!Have an amazing year ahead!
