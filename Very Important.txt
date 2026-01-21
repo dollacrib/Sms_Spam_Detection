@@ -1,4 +1,4 @@
-This project have a little flaw where you cannot directly execute it just by taping on the spam_qul.py.
+This project have a little flaw where you cannot directly execute it just by taping on the spam_gui.py.
 It can be executed smoothly by firstly copying this command  cd /d "C:\Users\shukl\Downloads\MyProject" 
 and then this command python spam_gui.py
 
@@ -23,4 +23,5 @@ Professor: Assignment submission deadline extended to Sunday midnight.
 Reminder: Doctor appointment tomorrow at 11:30 AM
 Bro, match starts at 8. Coming to my place? I’ll order pizza
 Thanks for the notes! Really helped for tomorrow’s test
+
 Happy Birthday Shukla!Have an amazing year ahead!
